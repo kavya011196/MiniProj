@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+
+</head>
+<body>
+	
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fly High </title>
+<link href="test.css" rel="stylesheet" type="text/css" media="all" />
+<link href="bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+	
+<body>
+<!-- banner -->
+	<div id="home" class="banner">
+	<div class="navigation">
+	<div class="container">
+		<div class="navi">
+			<div class="head-logo">
+				<a href="index.html"><img src="images/logo2.jpg" alt=" "></a>
+			</div>
+			<div class="top-nav">
+				<span class="menu"><img src="images/menu2.jpg" alt="" /></span>
+					<ul class="nav1">
+						<li ><a href="demo.jsp" class="active">Home</a></li>
+						<li><a href="loginForm.obj">Authority Login </a></li>
+						<li><a href="View.obj">View Flights</a></li>
+						<li><a href="bookTicket.obj">Book Flight</a></li>
+						<li><a href="contact.jsp">Contact Us</a></li>
+						
+					</ul>
+			</div>
+			
+		</div>
+		 
+</div>
+</div>
+</div>
+
+
+
+	<table class="table">
+	<caption class="h2" style="color: red"> </caption>
+	</table>
+	<form id="user" name="loginForm" class="form-horizontal" action="loginValidate.obj" method="post">
+		<center>
+
+			<table class="table">
+				<caption class="h2" style="color: #0066CC">Login for
+					Authorities</caption>
+				<tr>
+					<td align="center"><input id="type1" name="type" type="radio" value="admin"/><label for="type1">Admin</label></td>
+					<td align="center"><input id="type2" name="type" type="radio" value="executive"/><label for="type2">Executive</label></td>
+					<td><span id="error1" style="color: red"></span></td>	
+				</tr>
+				<tr>
+					<td align="right">Enter the user name<span style="color: red">*</span>
+					</td>
+					<td><input id="username" name="username" type="text" value=""/> </td>
+					<td><span id="error1" style="color: red"></span></td>
+				</tr>
+				<tr>
+					<td align="right">Password<span style="color: red">*</span></td>
+					<td><input id="password" name="password" type="password" value=""/> </td>
+					<td><span id="error1" style="color: red"></span></td>
+				</tr>
+				<tr>
+					<td align="center" colspan="2"><input type="submit"
+						class="btn btn-info" name="login" value="Login"></td>
+				</tr>
+			</table>
+		</center>
+	</form>
+
+</body>
+
+</html>

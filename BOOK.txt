@@ -1,0 +1,97 @@
+
+
+
+
+         
+    
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Book A Ticket</title>
+</head>
+<body>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fly High </title>
+<link href="test.css" rel="stylesheet" type="text/css" media="all" />
+<link href="bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+	
+<body>
+<!-- banner -->
+	<div id="home" class="banner">
+	<div class="navigation">
+	<div class="container">
+		<div class="navi">
+			<div class="head-logo">
+				<a href="index.html"><img src="images/logo2.jpg" alt=" "></a>
+			</div>
+			<div class="top-nav">
+				<span class="menu"><img src="images/menu2.jpg" alt="" /></span>
+					<ul class="nav1">
+						<li ><a href="demo.jsp" class="active">Home</a></li>
+						<li><a href="loginForm.obj">Authority Login </a></li>
+						<li><a href="View.obj">View Flights</a></li>
+						<li><a href="bookTicket.obj">Book Flight</a></li>
+						<li><a href="contact.jsp">Contact Us</a></li>
+						
+					</ul>
+			</div>
+			
+		</div>
+		 
+</div>
+</div>
+</div>
+
+
+<script type="text/javascript">
+function validate()
+{
+	var msg=true;
+	var sel=myForm.clas.value;
+	var pass=myForm.traveller.value;
+	if(pass=="")
+		{
+		alert("Please Enter number of passenger");
+		 msg=false;
+		}
+	else if(sel=="")
+		{
+		 alert("Please Make a selection");
+		 msg=false;
+		}
+	return msg;
+	
+}
+
+</script>
+<form action="book1.obj" name="myForm" onsubmit="return validate()">
+<table class="table">
+<caption class="h2">Give Your Choice</caption>
+<tr>
+	<td align="right">
+		<b>Enter Number Of Passengers</b>
+	</td>
+	<td>
+		<input type="number" min="1" max="100" class="form-control" name="traveller">
+	</td> 
+</tr>
+<tr>
+	<td align="right"><b>Enter Class</b></td>
+	<td align="left"><input type="radio" name="clas"  value="economy" >Economy&nbsp&nbsp
+	<span><input type="radio" name="clas"  value="bussiness">Bussiness</span></td>			
+</tr>
+<tr>
+	<td colspan="2" align="center">
+		<input type="submit" class="btn btn-info" name="sub" value="SUBMIT">
+	</td>
+</tr>		
+
+</table>
+</form>
+</body>
+</html>

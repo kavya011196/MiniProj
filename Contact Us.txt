@@ -1,0 +1,142 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link href="contact.css" rel="stylesheet" type="text/css" media="all" />
+<link href="bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fly High </title>
+<link href="test.css" rel="stylesheet" type="text/css" media="all" />
+<link href="bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+	
+<body>
+<!-- banner -->
+	<div id="home" class="banner">
+	<div class="navigation">
+	<div class="container">
+		<div class="navi">
+			<div class="head-logo">
+				<a href="index.html"><img src="images/logo2.jpg" alt=" "></a>
+			</div>
+			<div class="top-nav">
+				<span class="menu"><img src="images/menu2.jpg" alt="" /></span>
+					<ul class="nav1">
+						<li ><a href="demo.jsp" class="active">Home</a></li>
+						<li><a href="loginForm.obj">Authority Login </a></li>
+						<li><a href="View.obj">View Flights</a></li>
+						<li><a href="bookTicket.obj">Book Flight</a></li>
+						<li><a href="contact.jsp">Contact Us</a></li>
+						
+					</ul>
+			</div>
+			
+		</div>
+		 
+</div>
+</div>
+</div>
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<head>
+<link rel="stylesheet" type="text/css" href="test.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+<!-- <link rel="stylesheet" type="text/css" href="navbar.css"> -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body >
+<div class="option">
+	<div class ="my">
+
+	<div class="title">
+	
+	</div>
+
+
+<div class="section">
+<h2>Terms And Conditions</h2>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.  nonummy pede. Mauris et orci
+</p>
+</div>
+<div class="section">
+<h2>Frequently Asked Questions</h2>
+
+	<ol>
+		<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere,?</li> 
+		<ol type="A"><li>magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.</li></ol>
+		<li>Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.Pellentesque habitant morbi ?</li>
+		<ol type="A"><li>tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.</li></ol>
+		<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit?</li>
+		<ol type="A"><li>Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero </li></ol>
+		<li>sit amet commodo magna eros quis urna?</li>
+		<ol type="A"><li>Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.</li></ol>
+		<li>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas?</li>
+		<ol type="A"><li>Proin pharetra nonummy pede. Mauris et orci Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est.</li></ol> 
+</ol>
+
+</div>
+</body>
+</html>
+
+
+<!-- contact -->
+
+	<div id="contact" class="contact-1">
+	<div class="container" style="position:relative;bottom:0px">
+		
+		<div class="contact-us1-bottom">
+		<h2>CONTACT US</h2>
+			<form action="thanks.jsp">
+				<input type="text" placeholder="Name" required=" ">
+				<input type="text" placeholder="Mail" required=" ">
+				<textarea placeholder="Message" required=" "></textarea>
+				<input type="submit" value="Send Message">
+			</form>
+		<div class="map">
+			<div class="home-radio-clock">
+				<ul>
+					<li class="home"><span>Our Home</span></li>
+					<li class="radio"><span>Call Us</span></li>
+					<li class="clock"><span>Opening Time</span></li>
+				</ul>
+			</div>
+			<div class="home-radio-clock-right">
+				<ul>
+					<li>4978 Caynor Circle
+						<span>Weehawken, NJ 07087</span></li>
+					<li class="lst">(012) 123-456-78</li>
+					<li>(012) 123-456-78<span>Mon-Fri:</span><span>09h-17h</span></li>
+				</ul>
+			</div>
+		</div>
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+	</div>
+</body>
+</html>
